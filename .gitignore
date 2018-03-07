@@ -1,0 +1,26 @@
+## Documentation cache and generated files:
+/.yardoc/
+/_yardoc/
+/doc/
+/rdoc/
+
+## Tests files:
+/spec/reports/
+/spec/examples.txt
+/test/tmp/
+/test/version_tmp/
+
+## Environment normalization:
+/.bundle/
+/vendor/bundle
+/lib/bundler/man/
+
+## Other
+*.gem
+*.rbc
+/.config
+/coverage/
+/InstalledFiles
+/pkg/
+/tmp/
+.env
